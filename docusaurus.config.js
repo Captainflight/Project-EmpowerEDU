@@ -107,11 +107,11 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Links to Resources', // Insert resource name here and link to it downbelow
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: ' Insert Resource Name',
+                to: '/blog', 
               },
               {
                 label: 'GitHub',
