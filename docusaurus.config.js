@@ -59,7 +59,7 @@ const config = {
       navbar: {
         title: 'Student Resource Center',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Find tools and tips to help you to achive your maximum potential while in school or university',
           src: 'img/logo.svg',
         },
         items: [
