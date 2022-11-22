@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Student Resource Center',
+  tagline: 'Find tools and tips to help you to achive your maximum potential while in school or university',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -52,14 +52,14 @@ const config = {
       }),
     ],
   ],
-
+  
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Student Resource Center',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Find tools and tips to help you to achive your maximum potential while in school or university',
           src: 'img/logo.svg',
         },
         items: [
@@ -107,11 +107,11 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Links to Resources', // Insert resource name here and link to it downbelow
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: ' Insert Resource Name',
+                to: '/blog', 
               },
               {
                 label: 'GitHub',
@@ -120,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} SRC 2022 TechFair, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
