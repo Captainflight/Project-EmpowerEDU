@@ -114,8 +114,8 @@ const config = {
                 to: '/blog', 
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'GitHub Repo',
+                href: 'https://github.com/Captainflight/Tech-Fair-2022',
               },
             ],
           },
