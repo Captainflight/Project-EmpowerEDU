@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Create a Blog Post
+# Create a Blog Post 
 
 Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
 
@@ -15,7 +15,7 @@ Create a file at `blog/2021-02-28-greetings.md`:
 slug: greetings
 title: Greetings!
 authors:
-  - name: Joel Marcey
+  - name: SID
     title: Co-creator of Docusaurus 1
     url: https://github.com/JoelMarcey
     image_url: https://github.com/JoelMarcey.png
