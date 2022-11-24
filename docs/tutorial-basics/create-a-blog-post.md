@@ -16,7 +16,7 @@ slug: greetings
 title: Greetings!
 authors:
   - name: SID
-    title: Co-creator of Docusaurus 1
+    title: Co-
     url: https://github.com/JoelMarcey
     image_url: https://github.com/JoelMarcey.png
   - name: Sébastien Lorber
