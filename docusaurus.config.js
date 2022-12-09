@@ -70,6 +70,8 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/Markdown-page', label: ' Student Resourcses ', position: 'left'},
+          {to: '/GPA', label: ' GPA Calculator ', position: 'left'},
           {
             href: 'https://github.com/Captainflight/Tech-Fair-2022',
             label: 'GitHub',
