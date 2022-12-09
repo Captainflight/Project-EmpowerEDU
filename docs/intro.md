@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Let's discove **Docusaurus in less than 5 minutes**.
 
-## Getting Started
+## Getting Started Hold On
 
 Get started by **creating a new site**.
 
