@@ -71,7 +71,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
 
-          {to: '/Markdown-page', label: ' Studet Resourcses ', position: 'left'},
+          {to: '/Markup', label: ' Studet Resourcses ', position: 'left'},
 
           {
             href: 'https://github.com/Captainflight/Tech-Fair-2022',

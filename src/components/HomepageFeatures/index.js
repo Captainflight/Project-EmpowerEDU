@@ -4,35 +4,48 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'About Us',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        	Student Resource Center is our all-in-one solution to streamline student resources and information through just one website 
+        
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Our Mission',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        	Our goal is to provide a centralized location where students will be able to access useful information and assets to help enrich and reinforce their education
+        
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Our Goal',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        	We aim to provide everything from educational materials and resources like practice tests and study guides for mathematics to important college information like details about how certain factors affect admission rates or access to basic but important details and information about scholarships that students may not be able to find or may not have time to check into due to work or other life issues
+        
+        
+        	We also hope to expand this service in the future to provide even more useful information to students and incorporate as much of student life as we can to a singular destination that is accessible to all 
       </>
     ),
   },
+  {
+    title: 'Our Intent',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    description: (
+      <>
+        	We also hope to expand this service in the future to provide even more useful information to students and incorporate as much of student life as we can to a singular destination that is accessible to all 
+        
+      </>
+    ),
+  },
+
 ];
 
 function Feature({Svg, title, description}) {
