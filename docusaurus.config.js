@@ -100,7 +100,7 @@ const config = {
             items: [
               {
                 label: ' Insert Resource Name',
-                to: '/blog', 
+                to: '/Sources Used', 
               },
               {
                 label: 'GitHub Repo',
