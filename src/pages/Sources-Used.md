@@ -7,3 +7,5 @@ Khan Acadamy Trignometric Video: https://youtu.be/1m9p9iubMLU
 Brian McLogan: Intro to Channel Video  https://youtu.be/RdiSWKRm0_Y
 
 Organic Chemistry Tutor: Final Exam Prep https://youtu.be/G3xvpB1VS5g
+
+University of South Florida Admission Office https://admissions.usf.edu/blog/do-extracurriculars-matter-in-the-college-admissions-process

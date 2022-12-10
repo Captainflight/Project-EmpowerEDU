@@ -99,8 +99,8 @@ const config = {
             title: 'Links to Resources', // Insert resource name here and link to it downbelow
             items: [
               {
-                label: ' Insert Resource Name',
-                to: '/Sources Used', 
+                label: ' Resources',
+                to: '/Sources-Used', 
               },
               {
                 label: 'GitHub Repo',
