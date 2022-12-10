@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'About Us',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+ //   Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         	Student Resource Center is our all-in-one solution to streamline student resources and information through just one website 
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Our Mission',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+ //   Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         	Our goal is to provide a centralized location where students will be able to access useful information and assets to help enrich and reinforce their education
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Our Goal',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+//    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         	We aim to provide everything from educational materials and resources like practice tests and study guides for mathematics to important college information like details about how certain factors affect admission rates or access to basic but important details and information about scholarships that students may not be able to find or may not have time to check into due to work or other life issues
@@ -37,7 +37,7 @@ const FeatureList = [
   },
   {
     title: 'Our Intent',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+ //   Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         	We also hope to expand this service in the future to provide even more useful information to students and incorporate as much of student life as we can to a singular destination that is accessible to all 
@@ -52,7 +52,6 @@ function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
