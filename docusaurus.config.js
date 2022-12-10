@@ -71,7 +71,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
 
-          {to: '/Markup', label: ' Studet Resourcses ', position: 'left'},
+          {to: '/Markdown-page', label: ' Studet Resourcses ', position: 'left'},
 
           {
             href: 'https://github.com/Captainflight/Tech-Fair-2022',
@@ -123,7 +123,9 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} SRC 2022 TechFair, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} SRC 2022 TechFair, Inc. Built with Docusaurus. Notice •	The online assets used in this site were found in the public domain and are publicly available for all to see and use with or without the site and we strongly encourage users to continue and support the people who put their time and effort into creating these study materials`,
+        
+        
       },
       prism: {
         theme: lightCodeTheme,
