@@ -13,7 +13,7 @@ STUDENT ASSETS
 
 •	Classwork can often become overwhelming to students without clear guidance, organization or practice so here we aim to provide students with vital resources that will assist them with their educational endeavors across all grade levels
 
-•	We have a wide array of assets for students to use to their full advantage be it videos explaining complex topics from credible and reputable sources or access to online targeted study materials for practice here is a rough overview of all the assets we currently have available
+•	We have a wide array of assets for students to use to their full advantage be it videos explaining complex topics from credible and reputable sources or access to online targeted study materials for practice here is a rough overview of all the assets we currently have available. Note, we have not created these videos, but rather use this as a platform ot showcase these creators works.
 
 <Container>
 
