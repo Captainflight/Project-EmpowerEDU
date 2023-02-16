@@ -63,12 +63,7 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
+          
           {to: '/College', label: 'College Applications', position: 'left'},
 
           {to: '/Markdown-page', label: ' Studet Resourcses ', position: 'left'},
