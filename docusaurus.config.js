@@ -104,7 +104,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} SRC 2022 TechFair, Inc. Built with Docusaurus. Notice •	The online assets used in this site were found in the public domain and are publicly available for all to see and use with or without the site and we strongly encourage users to continue and support the people who put their time and effort into creating these study materials`,
+        copyright: `Copyright © ${new Date().getFullYear()} Student Resource Center 2023, Inc. Notice •	The online assets used in this site were found in the public domain and are publicly available for all to see and use with or without the site and we strongly encourage users to continue and support the people who put their time and effort into creating these study materials`,
         
         
       },
