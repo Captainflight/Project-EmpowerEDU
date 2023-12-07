@@ -1,22 +1,13 @@
 ---
 title: Markdown page example
 ---
-import TOCInline from '@theme/TOCInline';
 
-<TOCInline
-  // Only show h2 and h4 headings
-  toc={toc.filter((node) => node.level === 2 || node.level === 4)}
-  minHeadingLevel={2}
-  // Show h4 headings in addition to the default h2 and h3 headings
-  maxHeadingLevel={4}
-/>
+
+
 
 
 
 <!--truncate-->
-
-
-
 
 STUDENT ASSETS
 
@@ -107,6 +98,3 @@ OTHER ASSETS
 ACKNOWLEDGEMENTS
 
 •	The online assets used in this site were found in the public domain and are publicly available for all to see and use with or without the site and we strongly encourage users to continue and support the people who put their time and effort into creating these study materials
-
-
-

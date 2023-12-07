@@ -18,7 +18,7 @@ const FeatureList = [
  //   Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        	Our goal is to provide a centralized location where students will be able to access useful information and assets to help enrich and reinforce their education. These resoures would be used to empower students to achive better academic.....
+        	Our goal is to provide a centralized location where students will be able to access useful information and assets to help enrich and reinforce their education
         
       </>
     ),
